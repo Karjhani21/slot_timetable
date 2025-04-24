@@ -66,7 +66,7 @@ Execute the program using runserver command.
         <td>8-10</td>
         <td>DE</td>
         <td>PROBABLITY</td>
-        <td></td>
+        <td>FREE SLOT</td>
         <td>PHY</td>
         <td>REASONING</td>
     </tr>
@@ -96,7 +96,7 @@ Execute the program using runserver command.
         <td>STATISTICS</td>
         <td>PROBABILITY</td>
         <td>FWAD</td>
-        <td></td>
+        <td>DE</td>
     </tr>
 </table>
 
@@ -157,8 +157,7 @@ Execute the program using runserver command.
 
 ## OUTPUT:
 
-![alt text](<Screenshot 2025-04-24 090714.png>)
-
+![alt text](<Screenshot 2025-04-24 093946-1.png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
